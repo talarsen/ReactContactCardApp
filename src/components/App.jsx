@@ -1,9 +1,10 @@
 import React from "react";
 
 function App(props) {
+  <h1 className="heading">My Contacts</h1>
   return (
     <div>
-      <h1 className="heading">My Contacts</h1>
+     
       <div className="card">
         <div className="top">
           <h2 className=" name heading">{props.name}</h2>

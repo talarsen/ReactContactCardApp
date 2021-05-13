@@ -3,7 +3,10 @@ import ReactDOM from "react-dom";
 import App from "./components/App";
 
 ReactDOM.render(
+  
+
 <div>
+<h1 className="heading">My Contacts</h1>
 <App 
  name="Alex Hannold"
  img="https://pbs.twimg.com/profile_images/521729433426599937/0nntVU9L_400x400.jpeg"
